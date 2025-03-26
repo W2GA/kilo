@@ -1,0 +1,14 @@
+1|&@wahid@&|https://play-lh.googleusercontent.com/gAfwa64nKIv4-FwfuAVuD-T2YjU7mu8eivbmq1YWIHHUIMwK0nsCKO0f5qULOwbccns|&@wahid@&|https://fdewsdc.sbs/embed/dxty18r2e9bl|&@wahid@&|cashback|&@wahid@&|comedie romantique
+2|&@wahid@&|https://m.media-amazon.com/images/S/pv-target-images/fd76207ba0e2e2e104f1e944d49e5dfc1db46d5242f2e6c20ed2eecaa2cddec7.jpg|&@wahid@&|https://fdewsdc.sbs/embed/5r5fvbah2l3r|&@wahid@&|Your Fault|&@wahid@&|romantique dramatique
+3|&@wahid@&|https://m.media-amazon.com/images/M/MV5BNjQ2MDY0MjQtZTUxZS00MmYwLTgzZDctNDliNzdlOGE5OWM1XkEyXkFqcGc@._V1_.jpg|&@wahid@&|https://fdewsdc.sbs/embed/rp09om6wntun|&@wahid@&|The Forest Clown|&@wahid@&|comedie horreur
+4|&@wahid@&|https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/title-key-art/badboys_onesheet_1400x2100_0.jpg?itok=GGzVOfd0|&@wahid@&|https://fdewsdc.sbs/embed/mb8l2tmdzkob|&@wahid@&|bad boys|&@wahid@&|comedie crim action
+5|&@wahid@&|https://fr.web.img6.acsta.net/medias/nmedia/18/35/14/95/18364304.jpg|&@wahid@&|https://fdewsdc.sbs/embed/xrcqddjia507|&@wahid@&|bad boys 2|&@wahid@&|bad boys 2|&@wahid@&|comedie crim action
+6|&@wahid@&|https://musicart.xboxlive.com/7/884b5100-0000-0000-0000-000000000002/504/image.jpg|&@wahid@&|https://fdewsdc.sbs/embed/9f72ylvd3tmv|&@wahid@&|bad boys 3|&@wahid@&|comedie crim action
+7|&@wahid@&|https://m.media-amazon.com/images/M/MV5BZmM4MzY2YTktODcxMi00M2ZhLWE0ZjktMTlhNzNlMzEzODQyXkEyXkFqcGc@._V1_.jpg|&@wahid@&|https://fdewsdc.sbs/embed/n6uq8ynrp2wg|&@wahid@&|my fault|&@wahid@&|dramatique
+8|&@wahid@&|https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg|&@wahid@&|https://fdewsdc.sbs/embed/zs6soh3dr9yw|&@wahid@&|titanic|&@wahid@&|dramatique romantique
+9|&@wahid@&|https://www.usatoday.com/gcdn/-mm-/663f075435edcd622af994de9482d3c236df5eb1/c=0-418-1645-2063/local/-/media/2016/01/22/USATODAY/usatsports/thefaultinourstars-books.jpg|&@wahid@&|https://fdewsdc.sbs/embed/imeo6m8bi1qe|&@wahid@&|The Fault in Our Stars|&@wahid@&|dramatique romantique
+10|&@wahid@&|https://m.media-amazon.com/images/M/MV5BZjE0ZjgzMzYtMTAxYi00NGMzLThmZDktNzFlMzA2MWRmYWQ0XkEyXkFqcGc@._V1_.jpg|&@wahid@&|https://fdewsdc.sbs/embed/o1lspidn9h9z|&@wahid@&|The Notebook|&@wahid@&|dramatique romantique
+11|&@wahid@&|https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_.jpg|&@wahid@&|https://fdewsdc.sbs/embed/oyc7knhyoasp|&@wahid@&|The Intouchables|&@wahid@&|comedie dramatique
+12|&@wahid@&|https://m.media-amazon.com/images/M/MV5BM2U0MWRjZTMtMDVhNC00MzY4LTgwOTktZGQ2MDdiYTI4OWMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg|&@wahid@&|https://fdewsdc.sbs/embed/zlyantgdupf9|&@wahid@&|The Brutalist|&@wahid@&|dramatique
+id|&@wahid@&|image|&@wahid@&|lien|&@wahid@&|titre|&@wahid@&|genre
+
